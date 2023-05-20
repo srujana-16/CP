@@ -1,2 +1,2 @@
 # CP
-Coding problems for CP practise from Leetcode
+Coding problems for CP practise from Leetcode and codeforces. 
